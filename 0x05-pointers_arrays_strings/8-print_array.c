@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdout>
+#include <stdout.h>
 
 /**
  * print_array - prints n elements of an array
